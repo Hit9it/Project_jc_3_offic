@@ -17,7 +17,7 @@ new Client(2, 'Vasya', 'Gidon', 'adfoje@feij.dwe', '+838298492839', ['order','or
 new Client(3, 'Petya', 'Njnvk', 'adfojne@feij.dwe', '+38298492839', ['order','order','order'])
 new Client(4, 'Tanya', 'Fkmre', 'adjne@feij.dwe', '+8388492839', ['order'])
 new Client(5, 'Olena', 'Ferg', 'adfe@feij.dwe', '+83822839', ['order','order','order','order','order','order'])
-new Client(6, 'Micha', 'Eergw', 'ane@feij.dwe', '+382992839', ['order','order','order''order''order''order','order','order'])
+new Client(6, 'Micha', 'Eergw', 'ane@feij.dwe', '+382992839', ['order','order','order','order','order','order','order','order'])
 new Client(7, 'Sanya', 'Defw', 'jne@feij.dwe', '+83829849239', ['order','order','order'])
 new Client(8, 'Nikita', 'Dungeon', 'dfojne@feij.dwe', '+8388492839', ['order','order','order','order'])
 new Client(9, 'Dima', 'Master', 'fojne@feij.dwe', '+3829849839', ['order','order','order'])
