@@ -14,7 +14,7 @@
 //      console.log(min);
 // }
 // min(10,111111,-222222);
-//
+
 // // - створити функцію яка приймає три числа та виводить найбільше. (Без Math.max!)
 // function max(a,b,c){
 //     let min;
@@ -96,6 +96,7 @@
 // - Створити функцію яка приймає масив будь яких объектів, та повертає масив ключів всіх обєктів
 // EXAMPLE:
 //     [{name: 'Dima', age: 13}, {model: 'Camry'}]  ===> [ name, age, model ]
+//
 // function objectKey1(arr){
 //     let all = []
 //     for ( const object of arr){
@@ -112,6 +113,7 @@
 //     - Створити функцію яка приймає масив будь яких объектів, та повертає масив значень всіх обєктів
 // EXAMPLE:
 //     [{name: 'Dima', age: 13}, {model: 'Camry'}]  ===> [ Dima, 13, Camry ]
+//
 // function object (arr){
 //     let all = [];
 //     for(const object of arr){
